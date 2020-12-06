@@ -4,7 +4,7 @@ I am now a Phd candidate in Ghent University, Belgium. I work in the [T2K group]
 
 ### Name
 姜逸伟 is my name. Due to the cultural difference, bear me for highlighting the alignment between Chinese and alphabetic systems: 姜 Jiāng 逸 Yì 伟 Wěi. 
-As a custom in East-Asia, the first letter normally denotes family name (sometimes the first two characters but not in my case). 
+As a custom in East-Asia, the first letter normally denotes a family name (sometimes the first two characters but not in my case). 
 In general, it's not difficult to pronounce it correctly in terms of its simple combination of syllables.
 If you want some challenge today, try this mouthful word 阮 [Ruǎn](https://youtu.be/XVBVuFjKHYw?t=4) (no offense to anyone named with it).
 Nonetheless, I found that people sometimes mistook **Jiang** as **Yang**. Emm, it is actually the same as "J" in "Joker". 
