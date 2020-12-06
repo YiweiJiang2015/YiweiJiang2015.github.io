@@ -31,6 +31,7 @@ Further, if you are willing to learn how to master them (this [video clip](https
 - Language is power. Language is your weapon.
 - Besides NLP, I had some experience in plasma physics simulations owing to my master project. 
 - Favorite manga: [進撃の巨人](https://en.wikipedia.org/wiki/Attack_on_Titan). The final season is coming in December, 2020!
+- Favorite game: [Metal Gear Solid V: The Phantom Pain](https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain). "*Les Enfants Terribles.*"
 
 ### Email
 yiwei.jiang@ugent.be
