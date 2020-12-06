@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## About me
+I am now a Phd candidate in Ghent University, Belgium. I work in the [T2K group](https://ugentt2k.github.io/) with these cool guys. <br>
+My research project has close relation with conversational agents, semantic parsing and information extraction. <br>
 
-You can use the [editor on GitHub](https://github.com/YiweiJiang2015/YiweiJiang2015.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Name
+姜逸伟 is my name. Here is the alignment between Chinese and English: 姜 Jiāng 逸 Yì 伟 Wěi. As a custom in East-Asia, the first letter is my family name. In general, it is not difficult to pronounce my name correctly if the tone is neglected. Nevertheless, I found people in Europe sometimes say **Jiang** as **Yang**. Emm, it is actually the same as "J" in "Joker". 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research interests
+- Task-oriented dialogue systems.
+- Semantic parsing: AMR representation.
+- Information extraction.
 
-### Markdown
+## Publications
+- Recipe instruction semantics corpus (RISeC): Resolving semantic structure and zero anaphora in recipes. AACL-IJCNLP 2020 (virtual), Dec 5, Suzhou, China.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Datasets
+- [RISeC](https://github.com/YiweiJiang2015/RISeC)
 
-```markdown
-Syntax highlighted code block
+## Education
+- 2011-2018, BS & MS in Aerospace Power Engineering, Beihang University, Beijing, China.
+- 2018- Now, Phd candidate in Computer Science Engineering, Ghent University, Ghent, Belgium.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YiweiJiang2015/YiweiJiang2015.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Misc
+- Besides NLP, I also have some experience in the plasma physics simulation owing to my master project. 
+- Language is power. Language is your weapon.
