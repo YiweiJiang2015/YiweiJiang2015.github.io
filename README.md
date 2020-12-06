@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyiweijiang2015.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 I am now a Phd candidate in Ghent University, Belgium. I work in the [T2K group](https://ugentt2k.github.io/) with these cool guys. My research project has close relation with conversational agents, semantic parsing and information extraction.
 
 ### Name
@@ -29,4 +31,3 @@ Further, if you are willing to learn how to master them (this [video clip](https
 ### Email
 yiwei.jiang@ugent.be
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyiweijiang2015.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
