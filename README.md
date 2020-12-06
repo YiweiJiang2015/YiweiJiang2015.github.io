@@ -24,7 +24,7 @@ Further, if you are willing to learn how to master them (this [video clip](https
 
 ### Education
 - 2018- Now, Phd candidate in Computer Science Engineering, Ghent University, Ghent, Belgium.
-- 2011-2018, BS & MS in Aerospace Power Engineering, Beihang University, Beijing, China.
+- 2011-2018, BS & MS in Aerospace Power Engineering, Beihang University, [Beijing](/audio/Forbidden_Palace_(Civ5).ogg), China.
 
 
 ### Misc
