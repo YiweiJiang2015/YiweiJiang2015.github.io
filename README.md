@@ -25,8 +25,9 @@ Further, if you are willing to learn how to master them (this [video clip](https
 
 
 ### Misc
-- Besides NLP, I also have some experience in the plasma physics simulation owing to my master project. 
 - Language is power. Language is your weapon.
+- Besides NLP, I also have some experience in the plasma physics simulation owing to my master project. 
+- Favorite manga: 進撃の巨人. The final season is coming in December, 2020!
 
 ### Email
 yiwei.jiang@ugent.be
