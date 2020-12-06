@@ -29,7 +29,7 @@ Further, if you are willing to learn how to master them (this [video clip](https
 
 ### Misc
 - Language is power. Language is your weapon.
-- Besides NLP, I also have some experience in plasma physics simulations owing to my master project. 
+- Besides NLP, I have some experience in plasma physics simulations owing to my master project. 
 - Favorite manga: [進撃の巨人](https://en.wikipedia.org/wiki/Attack_on_Titan). The final season is coming in December, 2020!
 
 ### Email
