@@ -3,7 +3,7 @@
 I am now a Phd candidate in Ghent University, Belgium. I work in the [T2K group](https://ugentt2k.github.io/) with these cool guys. My research project has close relation with conversational agents, semantic parsing and information extraction.
 
 ### Name
-姜逸伟 is my name. Due to the cultural difference, bear me for highlighting the alignment between Chinese and English: 姜 Jiāng 逸 Yì 伟 Wěi. 
+姜逸伟 is my name. Due to the cultural difference, bear me for highlighting the alignment between Chinese and alphabetic systems: 姜 Jiāng 逸 Yì 伟 Wěi. 
 As a custom in East-Asia, the first letter is the family name (sometimes the first two characters but not in my case). 
 In general, it's not difficult to pronounce it correctly in terms of its simple combination of syllables.
 If you want some challenge today, try this mouthful word 阮 [Ruǎn](https://youtu.be/XVBVuFjKHYw?t=4) (no offense to anyone named with it).   
