@@ -1,4 +1,3 @@
-### About me
 I am now a Phd candidate in Ghent University, Belgium. I work in the [T2K group](https://ugentt2k.github.io/) with these cool guys. My research project has close relation with conversational agents, semantic parsing and information extraction.
 
 ### Name
