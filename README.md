@@ -22,3 +22,6 @@ I am now a Phd candidate in Ghent University, Belgium. I work in the [T2K group]
 ### Misc
 - Besides NLP, I also have some experience in the plasma physics simulation owing to my master project. 
 - Language is power. Language is your weapon.
+
+## Email
+yiwei.jiang@ugent.be
