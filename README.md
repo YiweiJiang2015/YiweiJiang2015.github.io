@@ -15,8 +15,9 @@ I am now a Phd candidate in Ghent University, Belgium. I work in the [T2K group]
 - [RISeC](https://github.com/YiweiJiang2015/RISeC)
 
 ### Education
-- 2011-2018, BS & MS in Aerospace Power Engineering, Beihang University, Beijing, China.
 - 2018- Now, Phd candidate in Computer Science Engineering, Ghent University, Ghent, Belgium.
+- 2011-2018, BS & MS in Aerospace Power Engineering, Beihang University, Beijing, China.
+
 
 ### Misc
 - Besides NLP, I also have some experience in the plasma physics simulation owing to my master project. 
