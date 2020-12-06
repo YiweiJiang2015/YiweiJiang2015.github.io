@@ -6,7 +6,7 @@ I am now a Phd candidate in Ghent University, Belgium. I work in the [T2K group]
 姜逸伟 is my name. Due to the cultural difference, bear me for highlighting the alignment between Chinese and alphabetic systems: 姜 Jiāng 逸 Yì 伟 Wěi. 
 As a custom in East-Asia, the first letter is the family name (sometimes the first two characters but not in my case). 
 In general, it's not difficult to pronounce it correctly in terms of its simple combination of syllables.
-If you want some challenge today, try this mouthful word 阮 [Ruǎn](https://youtu.be/XVBVuFjKHYw?t=4) (no offense to anyone named with it).   
+If you want some challenge today, try this mouthful word 阮 [Ruǎn](https://youtu.be/XVBVuFjKHYw?t=4) (no offense to anyone named with it).
 Nonetheless, I found that people sometimes mistook **Jiang** as **Yang**. Emm, it is actually the same as "J" in "Joker". 
 If you notice the strokes above the letters, congrats, you find new knowledge in the linguistic world. They denote tones in Mandarin.
 Further, if you are willing to learn how to master them (this [video clip](https://youtu.be/Wo13IvKqb4Y) may help), I will definitely be surprised and fully grateful with your efforts.
