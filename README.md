@@ -9,7 +9,7 @@ In general, it's not difficult to pronounce it correctly in terms of its simple 
 If you want some challenge today, try this mouthful word 阮 [Ruǎn](https://youtu.be/XVBVuFjKHYw?t=4) (no offense to anyone named with it).
 Nonetheless, I found that people sometimes mistook **Jiang** as **Yang**. Emm, it is actually the same as "J" in "Joker". 
 If you happen to notice the strokes above the letters, congrats, you find new knowledge in the linguistic world. They indicate tones in Mandarin Chinese.
-Further, if you are willing to learn how to master them (this [video clip](https://youtu.be/Wo13IvKqb4Y) may help), I will definitely be surprised and fully grateful with your efforts.
+Further, if you are willing to learn how to master them (this [video clip](https://youtu.be/Wo13IvKqb4Y) may help), I will definitely be surprised and fully grateful to your efforts.
 
 ### Research interests
 - Task-oriented dialogue systems.
