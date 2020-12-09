@@ -18,7 +18,7 @@ Further, if you are willing to learn how to master them (this [video clip](https
 - Information extraction.
 
 ### Publications
-- Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes. *AACL-IJCNLP 2020* (virtual), Dec 5, Suzhou, China. [pdf](https://biblio.ugent.be/publication/8679141/file/8679143.pdf)
+- Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes. *AACL-IJCNLP 2020* (virtual), Dec 5, Suzhou, China. [pdf](https://www.aclweb.org/anthology/2020.aacl-main.82)
 
 ### Datasets
 - [RISeC](https://github.com/YiweiJiang2015/RISeC)
