@@ -21,7 +21,7 @@ Further, if you are willing to learn how to master them (this [video clip](https
 - Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes. *AACL-IJCNLP 2020* (virtual), Dec 5, Suzhou, China. [pdf](https://www.aclweb.org/anthology/2020.aacl-main.82)
 
 ### Presentations
-- A task-oriented dialogue systems based on procedural knowledge. [Youtube](https://youtu.be/x_ztjVtE_KY), [Bilibili]()
+- A task-oriented dialogue systems based on procedural knowledge. [Youtube](https://youtu.be/x_ztjVtE_KY), [Bilibili](https://www.bilibili.com/video/BV1yA411F7yK?share_source=copy_web)
 
 ### Datasets
 - [RISeC](https://github.com/YiweiJiang2015/RISeC)
