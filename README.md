@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyiweijiang2015.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/YiweiJiang2015/YiweiJiang2015.github.io)]()
 
 I am now a Phd candidate in Ghent University, Belgium. I work in the [T2K group](https://ugentt2k.github.io/) with these cool guys. My research project has close relation with conversational agents, semantic parsing and information extraction.
 
@@ -18,7 +18,7 @@ Further, if you are willing to learn how to master them (this [video clip](https
 - Information extraction.
 
 ### Publications
-- Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes. *AACL-IJCNLP 2020* (virtual), Dec 5, Suzhou, China. [pdf](https://biblio.ugent.be/publication/8679141/file/8679143.pdf)
+- Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes. *AACL-IJCNLP 2020* (virtual), Dec 5, Suzhou, China. [pdf](https://www.aclweb.org/anthology/2020.aacl-main.82)
 
 ### Presentations
 - A task-oriented dialogue systems based on procedural knowledge. [Youtube](https://youtu.be/x_ztjVtE_KY), [Bilibili]()
