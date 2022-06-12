@@ -31,6 +31,8 @@ My research project has close relation with conversational agents, semantic pars
 - Besides NLP, I had some experience in plasma physics simulations owing to my master project. 
 - Favorite manga: [進撃の巨人](https://en.wikipedia.org/wiki/Attack_on_Titan). The final season is coming in December, 2020!
 - Favorite game: [Metal Gear Solid V: The Phantom Pain](https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain). "*Les Enfants Terribles.*"
+- About the Aves magazine 关于小鸟文学，我本人十分喜爱其文学内容和价值观倾向。我于个人仓库中现收录了从创刊2021.1到2021.5共五期（我不打算上传所有卷，并且鼓励大家喜欢小鸟文学的话付费阅读），
+根据小鸟文学Vol.17问答环节第vii问题下的模糊回答’会员可以免费下载所有小鸟文学杂志，并“鼓励把作品带给他认为值得分享的人”‘，此行为是被暂时允许的，但不排除我会在某日撤下仓库这种可能
 
 ### Email
 yiwei.jiang@ugent.be
