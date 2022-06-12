@@ -12,12 +12,14 @@ My research project has close relation with conversational agents, semantic pars
 - Information extraction.
 
 ### Publications
-- Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes. *AACL-IJCNLP 2020* (virtual), Dec 5, Suzhou, China. [pdf](https://www.aclweb.org/anthology/2020.aacl-main.82)
+- UGent-T2K at the 2nd DialDoc Shared Task: A Retrieval-Focused Dialog System Grounded in Multiple Documents. *ACL, 2nd DialDoc workshop 2022*, May, Dublin, Ireland. [pdf](https://aclanthology.org/2022.dialdoc-1.12/)
+- Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes. *AACL-IJCNLP 2020* (virtual), Dec., Suzhou, China. [pdf](https://www.aclweb.org/anthology/2020.aacl-main.82)
 
 ### Presentations
 - A task-oriented dialogue systems based on procedural knowledge. [Youtube](https://youtu.be/x_ztjVtE_KY), [Bilibili](https://www.bilibili.com/video/BV1yA411F7yK?share_source=copy_web)
 
 ### Datasets
+- [CookDial](https://github.com/YiweiJiang2015/CookDial)
 - [RISeC](https://github.com/YiweiJiang2015/RISeC)
 
 ### Education
