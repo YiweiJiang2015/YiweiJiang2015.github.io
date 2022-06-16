@@ -12,6 +12,7 @@ My research project has close relation with conversational agents, semantic pars
 - Information extraction.
 
 ### Publications
+- CookDial: a dataset for task-oriented dialogs grounded in procedural documents. *Applied Intelligence (2022)* [pdf](https://rdcu.be/cPJ2q)
 - UGent-T2K at the 2nd DialDoc Shared Task: A Retrieval-Focused Dialog System Grounded in Multiple Documents. *ACL, 2nd DialDoc workshop 2022*, May, Dublin, Ireland. [pdf](https://aclanthology.org/2022.dialdoc-1.12/)
 - Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes. *AACL-IJCNLP 2020* (virtual), Dec., Suzhou, China. [pdf](https://www.aclweb.org/anthology/2020.aacl-main.82)
 
